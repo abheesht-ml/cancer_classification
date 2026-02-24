@@ -59,12 +59,6 @@ weighted avg     0.9938    0.9938    0.9938      5000
 
 ![Grad-CAM Visualization](images/gradcam_example.png)
 
-## Project Files
-
-- `colab_lc25000_end_to_end.py`: Colab-ready end-to-end pipeline
-- `MODEL_EVALUATION.md`: Extended evaluation report
-- `images/confusion_matrix.png`: Confusion matrix figure (add this image)
-- `images/gradcam_example.png`: Grad-CAM figure (add this image)
 
 ## Notes
 
